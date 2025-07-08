@@ -1,0 +1,37 @@
+Here's a sample HR policy document snippet:
+
+---
+
+**HR Policy Document**
+**Policy Name:** Employee Leave Policy
+**Effective Date:** July 1, 2025
+**Applies To:** All Full-Time Employees
+
+### 1. Purpose
+
+To outline the leave entitlements and procedures for all eligible employees.
+
+### 2. Types of Leave
+
+* **Casual Leave (CL):** 12 days/year
+* **Sick Leave (SL):** 10 days/year
+* **Earned Leave (EL):** 15 days/year (accrued monthly)
+* **Maternity Leave:** 26 weeks (as per Maternity Benefit Act)
+* **Paternity Leave:** 5 days
+
+### 3. Leave Application
+
+* Must be submitted via HRMS at least 3 days in advance (except for emergencies).
+* Medical certificate is required for SL beyond 2 consecutive days.
+
+### 4. Leave Encashment
+
+* Only EL is encashable during separation or as per company guidelines.
+
+### 5. Unplanned Absence
+
+* Uninformed absence for 3 consecutive days will be treated as abandonment of service.
+
+---
+
+Let me know if you want a different type (e.g. remote work, code of conduct, etc).

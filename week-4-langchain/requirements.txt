@@ -1,0 +1,13 @@
+langchain
+langchain-google-genai
+langchain-huggingface
+langchain-tavily
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pypdf
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+unstructured
+python-dotenv
