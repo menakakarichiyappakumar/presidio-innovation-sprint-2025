@@ -1,0 +1,16 @@
+Finance Documentation:
+
+How to file a reimbursement:
+1. Log in to the expense management system.
+2. Create a new expense report.
+3. Attach all original receipts.
+4. Submit for approval to your manager.
+5. Reimbursements are processed within 5-7 business days.
+
+Last month's budget report:
+- Can be found on the Finance SharePoint site under 'Monthly Reports'.
+- Access requires finance department permissions.
+
+When is payroll processed:
+- Payroll is processed on the 15th and 30th of each month.
+- If these dates fall on a weekend or holiday, payroll is processed on the preceding business day.

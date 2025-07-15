@@ -1,0 +1,21 @@
+IT Documentation:
+
+How to set up VPN:
+1. Go to System Preferences > Network.
+2. Click the '+' button to add a new interface.
+3. Select VPN, choose the type (e.g., L2TP over IPSec), and create.
+4. Enter server address and account name.
+5. Click Authentication Settings... and enter password/shared secret.
+6. Click Connect.
+
+Approved Software:
+- Microsoft Office Suite
+- Google Workspace
+- Slack
+- Zoom
+- VS Code
+
+How to request a new laptop:
+1. Fill out the 'New Hardware Request' form on the internal portal.
+2. Get approval from your department head.
+3. Submit the form to the IT department.
